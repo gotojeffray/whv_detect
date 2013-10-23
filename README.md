@@ -1,7 +1,7 @@
 whv_detect
 ==========
 
-it's a python script simulating a firefox Web browser to logging in , in order to detecting whether Immigration New Zealand has spare places of Work Holiday Visa
+it's a python script simulating the firefox Web browser to log in INZ website, in order to detect whether Immigration New Zealand has spare places of Work Holiday Visa
 
 
 for sending a message to your phone , you should install  PyWapFetion (https://github.com/whtsky/PyWapFetion) first.
@@ -14,6 +14,5 @@ for sending a message to your phone , you should install  PyWapFetion (https://g
 
 4)now wait for a supurise !
 
-notice :
-if the INZ website corrupt , maybe this script will give you the wrong information, pls don't blame on me ...
+
 
