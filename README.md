@@ -1,10 +1,11 @@
 whv_detect
 ==========
-#####################
+/#####################
 Important ！！！
+
 This script is no longer useful since the inz website had added the picture verification code ！！！
 
-#####################
+/#####################
 it's a python script simulating the firefox Web browser to log in INZ website, in order to detect whether Immigration New Zealand has spare places of Work Holiday Visa
 
 
