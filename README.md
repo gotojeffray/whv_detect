@@ -3,7 +3,7 @@ whv_detect
 /#####################
 
 Important ！！！
-
+------------------
 This script is no longer useful since the inz website had added the picture verification code ！！！
 
 /#####################
